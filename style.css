@@ -494,6 +494,7 @@ footer{
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    box-shadow:1px 0px 10px rgb(141, 30, 237);
 }
 .footers-li{
     display:flex;
@@ -521,6 +522,9 @@ footer{
     cursor: pointer;
     margin-top: 14px;
     color:#fff;
+}
+.Free{
+    padding-bottom:6px;
 }
 .f-icons{
     display:flex;
